@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portofolio/static/css/main.28d02c89.css",
+    "main.js": "/Portofolio/static/js/main.e635dc55.js",
+    "static/media/klee.png": "/Portofolio/static/media/klee.794d27319939819e67e7.png",
+    "static/media/githubBadge.png": "/Portofolio/static/media/githubBadge.514229ccc1786cc25e65.png",
+    "static/media/profile.png": "/Portofolio/static/media/profile.5c136ec9e560465a9ccc.png",
+    "static/media/portfolioImage.svg": "/Portofolio/static/media/portfolioImage.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/badgeInstagram.svg": "/Portofolio/static/media/badgeInstagram.6a98689422c68022a6c4f9f087003307.svg",
+    "static/media/badgeGmail.svg": "/Portofolio/static/media/badgeGmail.362ce1670099346bdb67c7a86dac367d.svg",
+    "static/media/download.svg": "/Portofolio/static/media/download.9f365495ba615ddb2765f4620929a0e8.svg",
+    "static/media/github.svg": "/Portofolio/static/media/github.1340c13081fdebbc18f4a2c713351f79.svg",
+    "index.html": "/Portofolio/index.html",
+    "static/media/gmail.svg": "/Portofolio/static/media/gmail.01de9e7f98d1a20e3d061e78e2cdf1a3.svg",
+    "main.28d02c89.css.map": "/Portofolio/static/css/main.28d02c89.css.map",
+    "main.e635dc55.js.map": "/Portofolio/static/js/main.e635dc55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28d02c89.css",
+    "static/js/main.e635dc55.js"
+  ]
+}
