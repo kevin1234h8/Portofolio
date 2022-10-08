@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Portofolio/static/css/main.ce3508ed.css",
-    "main.js": "/Portofolio/static/js/main.621db3b8.js",
+    "main.js": "/Portofolio/static/js/main.6cf0bebc.js",
     "static/media/klee.png": "/Portofolio/static/media/klee.794d27319939819e67e7.png",
     "static/media/profile.png": "/Portofolio/static/media/profile.5c136ec9e560465a9ccc.png",
     "static/media/badgeInstagram.svg": "/Portofolio/static/media/badgeInstagram.6a98689422c68022a6c4f9f087003307.svg",
     "static/media/badgeGmail.svg": "/Portofolio/static/media/badgeGmail.362ce1670099346bdb67c7a86dac367d.svg",
     "static/media/download.svg": "/Portofolio/static/media/download.9f365495ba615ddb2765f4620929a0e8.svg",
     "static/media/github.svg": "/Portofolio/static/media/github.1340c13081fdebbc18f4a2c713351f79.svg",
-    "index.html": "/Portofolio/index.html",
     "static/media/gmail.svg": "/Portofolio/static/media/gmail.01de9e7f98d1a20e3d061e78e2cdf1a3.svg",
+    "index.html": "/Portofolio/index.html",
     "main.ce3508ed.css.map": "/Portofolio/static/css/main.ce3508ed.css.map",
-    "main.621db3b8.js.map": "/Portofolio/static/js/main.621db3b8.js.map"
+    "main.6cf0bebc.js.map": "/Portofolio/static/js/main.6cf0bebc.js.map"
   },
   "entrypoints": [
     "static/css/main.ce3508ed.css",
-    "static/js/main.621db3b8.js"
+    "static/js/main.6cf0bebc.js"
   ]
 }
