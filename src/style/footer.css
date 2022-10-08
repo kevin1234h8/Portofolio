@@ -1,0 +1,70 @@
+.footer{
+    margin: 8rem 0 8rem 0;
+    background-color: #eceef3 ;
+    padding: 2rem;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.footer .contact-footer{
+    
+    margin : 0 0 5rem 0 ;
+    text-align: center;
+}
+.footer .email{
+    position : relative
+
+    
+}
+.footer .reach{
+    margin-top: 5rem;
+}
+
+.footer .email::after {
+    content: "";
+
+    position: absolute;
+    background-color:#ff9e81;
+    width: 100% ;
+    bottom: 0;
+    opacity: .7;
+    height: 2px;
+    left: 0;
+    transition: .3s;
+}
+
+
+.footer .email:hover::after{
+    height: 100%;
+    opacity: .5;
+}
+.footer .credit{
+    position: relative;
+}
+.footer .credit::after{
+    content: "";
+
+    position: absolute;
+    background-color:#ff9e81;
+    width: 100% ;
+    bottom: 0;
+    opacity: .7;
+    height: 2px;
+    left: 0;
+    transition: .3s;
+}
+.footer .credit:hover::after{
+    height: 100%;
+    opacity: .5;
+}
+
+.whatsapp{
+    position : relative
+}
+
+.footer-link a{
+  color: #112969;
+  text-decoration: none;
+}

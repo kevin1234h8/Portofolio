@@ -1,0 +1,9 @@
+{
+  "type": "Project budget (USD)",
+  "button": [
+    { "id": 6, "name": "<2k" },
+    { "id": 7, "name": "2-5k" },
+    { "id": 8, "name": "5-10k" },
+    { "id": 9, "name": ">10k" }
+  ]
+}

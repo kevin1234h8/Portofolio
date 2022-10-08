@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "number": "0/1",
+    "name": "Character Design",
+    "color": "#edd9f2",
+    "description": "Deliver a cute anime drawing style"
+  },
+  {
+    "id": 2,
+    "number": "0/2",
+    "name": "Development",
+    "color": "#c5f0fd",
+    "description": "Using the latest web dev techs, I build pixel-fast and accessible websites. I specialised in creative interactions and transitions."
+  },
+  {
+    "id": 3,
+    "number": "0/3",
+    "name": "Design & Dev",
+    "color": "#bbe6ac",
+    "description": "Allows the entire website creation—from concept to final site—to be seamless and ultra-fast."
+  }
+]

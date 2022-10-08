@@ -1,0 +1,41 @@
+.contact-button{
+    display: grid;
+    grid-template-columns: repeat(auto-fit , minmax(100px , 3fr));
+}
+
+.contact{
+    font-size:62px ;
+}
+
+.wrapper{
+    width: 75%;
+}
+
+.option{
+    width: 75%;
+    padding: 1rem;
+    border-radius: 1rem;
+    outline: none;
+    font-size: 12px;
+    border: none;
+    background-color: #eceef3;
+}
+
+@media only screen and (max-width: 600px) {
+    .contain{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        text-align: center;
+        
+        
+    }
+    .wrapper{
+    width: 100%;
+    
+}
+    .contact-wrapper{
+        text-align: center;
+    }
+
+  }

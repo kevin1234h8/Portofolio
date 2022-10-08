@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Project type",
+    "button": [
+      { "id": 1, "name": "Website", "isSelected": "false" },
+      { "id": 2, "name": "Webapp", "isSelected": "false" },
+      { "id": 3, "name": "Other", "isSelected": "false" }
+    ]
+  }
+]

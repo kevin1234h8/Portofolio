@@ -1,0 +1,12 @@
+.field {
+    width: 100%;
+}
+
+.TextField-without-border-radius fieldset {
+    border-radius: 0;
+  }
+@media only screen and (max-width : 600px) {
+    .field {
+        width: 100%;
+    }
+}
